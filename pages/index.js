@@ -5,7 +5,7 @@ export default function Home() {
     <>
       <div className="w-full bg-[#27695f] lg:h-screen">
         <div className="lg:w-10/12 w-full mx-auto flex ">
-          <div className="lg:w-4/12 w-screen lg:mt-0 -mt-1 h-[500px]">
+          <div className="lg:w-4/12 w-screen lg:mt-0 -mt-1 h-[598px]">
             <img src="bg_top.jpg" alt="" className="lg:absolute relative lg:bottom-0 lg:left-48 -left-10 h-full" />
           </div>
           <div className="lg:w-6/12 w-full lg:mt-44 mt-32 lg:ml-24 -ml-56 z-30">
