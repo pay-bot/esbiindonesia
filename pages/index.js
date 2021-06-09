@@ -8,7 +8,7 @@ export default function Home() {
           <div className="lg:w-4/12 w-screen lg:mt-0 -mt-1">
             <img src="bg_top.jpg" alt="" className="lg:absolute relative lg:bottom-0 lg:left-48 -left-10 h-full" />
           </div>
-          <div className="lg:w-6/12 w-full lg:mt-40 mt-32 lg:ml-24 -ml-56 z-30">
+          <div className="lg:w-6/12 w-full lg:mt-48 mt-32 lg:ml-24 -ml-56 z-30">
             <motion.div className="transform translate-x-4 translate-y-4 "
               initial={{ x: 250 }}
               animate={{ x: 0 }}
