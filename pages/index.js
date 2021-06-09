@@ -3,7 +3,7 @@ import { motion } from "framer-motion"
 export default function Home() {
   return (
     <>
-      <div className="w-full bg-[#27695f] h-screen">
+      <div className="w-full bg-[#27695f] h-full">
         <div className="lg:w-10/12 w-full mx-auto flex ">
           <div className="lg:w-4/12 w-screen lg:mt-0 -mt-1">
             <img src="bg_top.jpg" alt="" className="lg:absolute relative lg:bottom-0 lg:left-48 -left-10 h-full" />
